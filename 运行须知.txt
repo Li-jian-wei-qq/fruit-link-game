@@ -1,0 +1,4 @@
+运行前置：本地安装MySQL9.7，端口3308，root密码haode
+1. Navicat执行数据库初始化.sql
+2. 双击【连连看服务.exe】启动后端服务
+3. 浏览器打开 http://localhost:3000
